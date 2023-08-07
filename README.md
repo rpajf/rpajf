@@ -1,4 +1,5 @@
-### Hi Im Raphael
+### Hi, my name is Raphael
+### welcome to my github, here I share some projects mainly related to webdevelopment with javascript
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/rpajf">
