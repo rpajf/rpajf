@@ -1,6 +1,6 @@
 ### Hi, my name is Raphael
 ### welcome to my github, here I share some projects mainly related to web development
-### With a professional background related mostly to frontend, im improving my backend skills with java and its frameworks
+#### With a professional background related mostly to frontend, im improving my backend skills with java and its frameworks
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/rpajf">
