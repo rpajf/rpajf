@@ -1,13 +1,7 @@
 ### Hi, my name is Raphael
 ### welcome to my github, here I share some projects mainly related to web development
 #### With a professional background related mostly to frontend, im improving my backend skills with java and its frameworks
-## GitHub Stats
-<div align="center">
-  <a href="https://github.com/rpajf">
-    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rpajf&count_private=true&theme=cobalt"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpajf&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+
 
 <!--
 **rpajf/rpajf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
